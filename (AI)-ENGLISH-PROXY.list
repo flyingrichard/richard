@@ -2,11 +2,15 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,canva
 DOMAIN-KEYWORD,myheritage
+DOMAIN-KEYWORD,promeai
+DOMAIN-KEYWORD,cutout
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,cutout.pro
+DOMAIN-SUFFIX,promeai.pro
 # DOMAIN-SUFFIX,perplexity.ai
 # DOMAIN-SUFFIX,chatgpt.com
 # DOMAIN-SUFFIX,auth0.com
