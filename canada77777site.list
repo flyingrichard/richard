@@ -3,4 +3,4 @@ DOMAIN-KEYWORD,kijiji
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,kijiji.ca
-DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,.ca
