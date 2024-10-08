@@ -1,5 +1,6 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,kijiji
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,kijiji.ca
 DOMAIN-SUFFIX,*.ca
