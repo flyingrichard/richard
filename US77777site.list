@@ -3,7 +3,9 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,amazon
-# DOMAIN-KEYWORD,apple
+# DOMAIN-KEYWORD,copilot
 # 域名后缀匹配
 DOMAIN-SUFFIX,openai.com
-# DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,copilot.microsoft.com
