@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,.ca
 DOMAIN-KEYWORD,canada.ca
 DOMAIN-KEYWORD,gc.ca
 DOMAIN-KEYWORD,cic.gc.ca
+DOMAIN-KEYWORD,gckey
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,kijiji.ca
