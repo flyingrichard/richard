@@ -4,5 +4,5 @@ DOMAIN-KEYWORD,interlay
 # DOMAIN-KEYWORD,
 # DOMAIN-KEYWORD,
 # 域名后缀匹配
-# DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,*.jp
 # DOMAIN-SUFFIX,apple.com
