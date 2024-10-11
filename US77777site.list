@@ -7,7 +7,11 @@ DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,wiki
 DOMAIN-KEYWORD,gmail
-# DOMAIN-KEYWORD,accounts.google.com
+DOMAIN-KEYWORD,accounts.google.com
+DOMAIN-KEYWORD,mail.google.com
+
+
+
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,openai.com
@@ -15,3 +19,4 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,mail.google.com
