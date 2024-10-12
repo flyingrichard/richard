@@ -9,7 +9,7 @@ DOMAIN-KEYWORD,wiki
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,accounts.google.com
 DOMAIN-KEYWORD,mail.google.com
-
+DOMAIN-KEYWORD,spotify
 
 
 
@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,open.spotify.com
+DOMAIN-SUFFIX,spotify.com
