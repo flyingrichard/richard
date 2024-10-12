@@ -5,7 +5,7 @@ DOMAIN-KEYWORD,myheritage
 DOMAIN-KEYWORD,promeai
 DOMAIN-KEYWORD,cutout
 DOMAIN-KEYWORD,edx
-# DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,instagram
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,anthropic
@@ -14,12 +14,14 @@ DOMAIN-KEYWORD,edx
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
+
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cutout.pro
 DOMAIN-SUFFIX,promeai.pro
 DOMAIN-SUFFIX,edx.org
-# DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,instagram.com
 # DOMAIN-SUFFIX,auth0.com
 # DOMAIN-SUFFIX,client-api.arkoselabs.com
 # DOMAIN-SUFFIX,events.statsigapi.net
