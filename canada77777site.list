@@ -4,10 +4,10 @@ DOMAIN-KEYWORD,kijiji
 # DOMAIN-KEYWORD,canada.ca
 # DOMAIN-KEYWORD,gc.ca
 # DOMAIN-KEYWORD,cic.gc.ca
-# DOMAIN-KEYWORD,gckey
+DOMAIN-KEYWORD,singlekey
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,kijiji.ca
 # DOMAIN-SUFFIX,.ca
 # DOMAIN-SUFFIX,cic.gc.ca
-# DOMAIN-SUFFIX,gc.ca
+DOMAIN-SUFFIX,singlekey.com
