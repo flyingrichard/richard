@@ -2,6 +2,12 @@
 # 更新：2025-04-12 14:50:04
 # 数量：45条
 
+
+DOMAIN-KEYWORD,xiaohongshu*
+
+DOMAIN-SUFFIX,cibc.com
+
+
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
