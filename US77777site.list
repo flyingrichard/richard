@@ -1,0 +1,24 @@
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,amazon
+# DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,wiki
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,accounts.google.com
+DOMAIN-KEYWORD,mail.google.com
+DOMAIN-KEYWORD,spotify
+
+
+
+# 域名后缀匹配
+# DOMAIN-SUFFIX,openai.com
+# DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,bing.net
+# DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,open.spotify.com
+DOMAIN-SUFFIX,spotify.com

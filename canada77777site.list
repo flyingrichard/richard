@@ -1,0 +1,13 @@
+# 域名关键字匹配
+DOMAIN-KEYWORD,kijiji
+# DOMAIN-KEYWORD,.ca
+# DOMAIN-KEYWORD,canada.ca
+# DOMAIN-KEYWORD,gc.ca
+# DOMAIN-KEYWORD,cic.gc.ca
+DOMAIN-KEYWORD,singlekey
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,kijiji.ca
+# DOMAIN-SUFFIX,.ca
+# DOMAIN-SUFFIX,cic.gc.ca
+DOMAIN-SUFFIX,singlekey.com
