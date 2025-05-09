@@ -9,6 +9,7 @@ DOMAIN,wxapp.tc.qq.com
 DOMAIN-KEYWORD,wxapp
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,weixin
+DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,cibc.com
 
