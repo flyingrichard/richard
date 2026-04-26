@@ -1,0 +1,42 @@
+# 内容：直连
+
+
+
+
+DOMAIN-KEYWORD,xiaohongshu*
+
+DOMAIN,wxapp.tc.qq.com
+DOMAIN-KEYWORD,wxapp
+DOMAIN-KEYWORD,wechat
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-KEYWORD,weixin
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,cibc.com
+DOMAIN-KEYWORD,foreflight
+DOMAIN-SUFFIX,foreflight.com
+DOMAIN,cloudfront.foreflight.com
+DOMAIN,api.foreflight.com
+DOMAIN-SUFFIX,jeppesen.com
+
+
+
+
+
+
+
+
+# Bilibili 哔哩哔哩
+# USER-AGENT,Bilibili*
+# DOMAIN,apiintl.biliapi.net
+# DOMAIN-SUFFIX,acg.tv
+
+
+# Iqiyi 爱奇艺
+# USER-AGENT,QYPlayer*
+
+# DOMAIN,intl-subscription.iqiyi.com
+# DOMAIN-SUFFIX,inter.iqiyi.com
+
+# IP-CIDR,223.119.62.225/28,no-resolve
+# URL-REGEX,^https?:\/\/int[\w-\.]+iqiyi\.com
